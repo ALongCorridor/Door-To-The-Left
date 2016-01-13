@@ -1,0 +1,19 @@
+LEFT DOOR  
+print wise decision 
+wait 1 second
+print you're in a square room with two flickering candles on a table in the centre 
+wait 1 second
+print you also see some splodges of blood and a small note with some scribbled writing on it
+wait 1 second 
+print you approach the table, would you like to read the note?
+if yes:
+  print the note says
+  wait 1 second
+  Ah you seem to be following me? If you want to progress silence the flickering lights.
+else:
+`   print a breeze approaches you from behind and kills the dying candles
+    wait 1 second 
+    print the lights are dead and you feel like you're being watched
+    wait 1 second
+    print suddenly adark figure jumps at you and striking your soft head, you fall to the floor and die a slow death
+     

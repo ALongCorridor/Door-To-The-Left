@@ -9,7 +9,7 @@ def doortotheleft():
     print("In the centre of the room is a table, upon it lies a small piece of paper.")
     time.sleep(1)
     print("A candle flickers in the darkness just lighting the room.")
-    read = raw_input("There is nothing else in the room, would you like to approach the table and read the note? (y/n)")
+    read = raw_input("There are some some kitchen utensils in the room, would you like to approach the table and read the note? (y/n)")
     if read == "y":
         print("There is blood on the note")
         time.sleep(1)

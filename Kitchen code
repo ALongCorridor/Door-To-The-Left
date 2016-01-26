@@ -1,4 +1,4 @@
-def doortotheleft():
+def kitchen():
     import time
     
     print("Welcome to the Kitchen")

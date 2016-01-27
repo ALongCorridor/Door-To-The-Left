@@ -1,0 +1,9 @@
+def pantry():
+    import time
+    print("Welcome to the pantry")
+    time.sleep(1)
+    print("The door closes behind you, darkness stares you in the face")
+    time.sleep(1)
+    print("Suddenly from behind you the door opens, a tall man is stood there with a bloody knife in his hand")
+    time.sleep(1)
+    print("He lunges toward you, there is no time to move and you get impaled by his sharp blade")

@@ -10,4 +10,5 @@ def pantry():
     time.sleep(1)
     print("You lie there helplessly on the floor, bleeding to death...")
     time.sleep(1)
+    print("He says in a lowered voice 'I knew you wouldn't last more than 5 minutes!'")
     gameover()

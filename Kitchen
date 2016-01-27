@@ -17,4 +17,7 @@ def kitchen():
         time.sleep(1)
         print("The note says: ")
         time.sleep(1)
-        riddle = raw_input("Some of my blood has been shed, by a knife I am dead, my right to life has gone, but which way did I go? It was the right way you must know! The right way", name "!")
+        riddle = raw_input("Some of my blood has been shed, by a knife I am dead, my right to life has gone, but which way did I go? It was the right way you must know! (forward/right)")
+        
+    if riddle == "forward":
+        pantry()

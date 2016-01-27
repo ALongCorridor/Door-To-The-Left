@@ -7,3 +7,7 @@ def pantry():
     print("Suddenly from behind you the door opens, a tall man is stood there with a bloody knife in his hand")
     time.sleep(1)
     print("He lunges toward you, there is no time to move and you get impaled by his sharp blade")
+    time.sleep(1)
+    print("You lie there helplessly on the floor, bleeding to death...")
+    time.sleep(1)
+    gameover()
